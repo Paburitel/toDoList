@@ -1,0 +1,18 @@
+#calendar {
+	display: inline-table;
+}
+caption {
+	text-align: center !important;
+}
+
+select {
+	display: inline-block !important;
+}
+
+
+
+
+
+
+
+
